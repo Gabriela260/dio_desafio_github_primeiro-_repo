@@ -1,0 +1,22 @@
+| Resumos  
+Repositório para armazenar resumos sobre assuntos que precisam ser fixados.
+
+Sintaxe Básica
+
+$ git init 
+-> Para transformar a pasta local em repositório git
+
+$ git commit -m "Versão inicial"
+-> Para criar um commit 
+
+$ git clone linkdorepositorio
+-> Para clonar o repositório
+
+$ git clone url --branch nomedabranch --single-branch
+-> Para clonar uma branch específica
+
+$ git add .
+-> Adciona todos os arquivos ao stage
+
+$ git status 
+-> Mostra os arquivos disponíveis na stage, além de mostrar modificações sofridas em determinado arquivo
